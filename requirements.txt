@@ -39,7 +39,7 @@ pathspec==0.9.0
 platformdirs==2.4.0
 python-dotenv==0.19.2
 python-engineio==4.3.1
-python-socketio==5.5.1
+python-socketio==5.14.0
 regex==2021.9.30
 required==0.4.0
 simple-websocket==0.5.0
